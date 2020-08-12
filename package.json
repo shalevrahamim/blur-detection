@@ -1,0 +1,24 @@
+{
+  "name": "blur-detection",
+  "version": "1.0.0",
+  "description": "- watcher - config specific path to be watcher, when new file get into custom path the service will detect if the photo is blur or not.\r - full automatic - when camera device will input to your computer the service do his job on the camera device input.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shalevrahamim/blur-detection.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shalevrahamim/blur-detection/issues"
+  },
+  "homepage": "https://github.com/shalevrahamim/blur-detection#readme",
+  "dependencies": {
+    "watch": "^1.0.2"
+  }
+}

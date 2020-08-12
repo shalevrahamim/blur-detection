@@ -1,0 +1,12 @@
+{
+    "start": "watcher",
+    "watcher": {
+        "path": "C:/Users/srahamim/Desktop/cameraDetection/watcher"
+    },
+    "automatic": {},
+    "extention": [
+        "jpeg",
+        "jpg",
+        "png"
+    ]
+}
